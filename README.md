@@ -4,7 +4,7 @@ A sample Duolingo-like streak counter.
 ### `@thestriver/streak-counter` - a sample streak counter
 
 
-A sample Duolingo-like streak counter written in TypeScript and meant for the browser (uses `localStorage`).
+A sample Duolingo-like streak counter written in TypeScript and meant for the browser - uses `localStorage`.
 
 ## Install
 
