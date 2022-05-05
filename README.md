@@ -1,7 +1,7 @@
 # typescript-streak-counter
-A sample Duolingo-like streak counter.
+A sample Duolingo-like streak counter you can import.
 
-### `@thestriver/streak-counter` - a sample streak counter
+### `@thestriver/streak-counter`
 
 
 A sample Duolingo-like streak counter written in TypeScript and meant for the browser - uses `localStorage`.
