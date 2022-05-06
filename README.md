@@ -1,7 +1,7 @@
 # typescript-streak-counter
 A sample Duolingo-like streak counter you can import.
 
-### `@thestriver/streak-counter`
+#### `@thestriver/streak-counter`
 
 
 A sample Duolingo-like streak counter written in TypeScript and meant for the browser - uses `localStorage`.
@@ -27,9 +27,9 @@ The streak package returns an object:
 
 ```json
 {
-    //currentCount: 1,
-    //lastLoginDate: "04/04/2022",
-    //startDate: "04/04/2022",
+    "currentCount": 1,
+    "lastLoginDate": "04/04/2022",
+    "startDate": "04/04/2022",
 
 }
 ```
