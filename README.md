@@ -8,9 +8,9 @@ A sample Duolingo-like streak counter written in TypeScript and meant for the br
 
 ## Install
 
-yarn add @thestriver/streak-counter
+`yarn add @thestriver/streak-counter`
 
-npm install @thestriver/streak-counter
+`npm install @thestriver/streak-counter`
 
 ## Usage
 
