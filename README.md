@@ -27,9 +27,9 @@ The streak package returns an object:
 
 ```json
 {
-    currentCount: 1,
-    lastLoginDate: "04/04/2022",
-    startDate: "04/04/2022",
+    //currentCount: 1,
+    //lastLoginDate: "04/04/2022",
+    //startDate: "04/04/2022",
 
 }
 ```
