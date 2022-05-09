@@ -1,5 +1,5 @@
 import { formattedDate } from "./utils";
-
+//acceptable var
 interface Streak {
     currentCount: number
     startDate: string
@@ -8,6 +8,7 @@ interface Streak {
 const KEY = 'streak'
 
 export const streakCounter = (storage: Storage, date: Date): Streak => {
+     // retrieve from localStorage
     const streakInLocalStorage = storage.getItem(KEY);
     if (streakInLocalStorage) {
       try {
